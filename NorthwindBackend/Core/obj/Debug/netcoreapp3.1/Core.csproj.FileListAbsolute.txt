@@ -1,7 +1,6 @@
 C:\Users\mrtag\source\repos\NorthwindBackend\NorthwindBackend\Core\bin\Debug\netcoreapp3.1\Core.deps.json
 C:\Users\mrtag\source\repos\NorthwindBackend\NorthwindBackend\Core\bin\Debug\netcoreapp3.1\Core.dll
 C:\Users\mrtag\source\repos\NorthwindBackend\NorthwindBackend\Core\bin\Debug\netcoreapp3.1\Core.pdb
-C:\Users\mrtag\source\repos\NorthwindBackend\NorthwindBackend\Core\obj\Debug\netcoreapp3.1\Core.csprojAssemblyReference.cache
 C:\Users\mrtag\source\repos\NorthwindBackend\NorthwindBackend\Core\obj\Debug\netcoreapp3.1\Core.AssemblyInfoInputs.cache
 C:\Users\mrtag\source\repos\NorthwindBackend\NorthwindBackend\Core\obj\Debug\netcoreapp3.1\Core.AssemblyInfo.cs
 C:\Users\mrtag\source\repos\NorthwindBackend\NorthwindBackend\Core\obj\Debug\netcoreapp3.1\Core.csproj.CoreCompileInputs.cache
