@@ -1,5 +1,5 @@
 ﻿using Business.Abstract;
-using Business.Contans;
+using Business.Contants;
 using Core.Entities.Concrete;
 using Core.Utilities.Hashing;
 using Core.Utilities.Results;
@@ -17,9 +17,10 @@ namespace Business.Concrete
         private ITokenHelper _tokenHelper;
 
 
-        public AuthManager(IUserService userService)
+        public AuthManager(IUserService userService, ITokenHelper tokenHelper)
         {
             _userService = userService;
+            _tokenHelper = tokenHelper;
         }
 
         public IDataResult<AccessToken> CreateAccessToken(User user)

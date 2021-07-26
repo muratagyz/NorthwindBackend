@@ -1,11 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "4YXG7Qg31CNzJY9AYkx+T9l2TiGww48hVGxx8o+UNAvGZJjTn2upZjJYLpY/I//ONLrb4OHb0XdJUYN97frvhQ==",
+  "dgSpecHash": "tNB1eU0d3zrGLG8uWFcKGVEJ3twT2NLtYpX6cA2qilUNB7m13Vc48sTNy7/q3AEGOgapXr9Cxm4ZvMakKDotkw==",
   "success": true,
   "projectFilePath": "C:\\Users\\mrtag\\source\\repos\\NorthwindBackend\\NorthwindBackend\\WebAPI\\WebAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\mrtag\\.nuget\\packages\\autofac\\6.2.0\\autofac.6.2.0.nupkg.sha512",
     "C:\\Users\\mrtag\\.nuget\\packages\\autofac.extensions.dependencyinjection\\7.1.0\\autofac.extensions.dependencyinjection.7.1.0.nupkg.sha512",
+    "C:\\Users\\mrtag\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\3.1.17\\microsoft.aspnetcore.authentication.jwtbearer.3.1.17.nupkg.sha512",
     "C:\\Users\\mrtag\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
     "C:\\Users\\mrtag\\.nuget\\packages\\microsoft.data.sqlclient\\2.0.1\\microsoft.data.sqlclient.2.0.1.nupkg.sha512",
     "C:\\Users\\mrtag\\.nuget\\packages\\microsoft.data.sqlclient.sni.runtime\\2.0.1\\microsoft.data.sqlclient.sni.runtime.2.0.1.nupkg.sha512",
