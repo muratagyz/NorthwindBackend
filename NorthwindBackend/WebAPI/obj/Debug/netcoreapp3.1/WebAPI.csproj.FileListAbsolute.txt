@@ -88,3 +88,6 @@ C:\Users\mrtag\source\repos\NorthwindBackend\NorthwindBackend\WebAPI\bin\Debug\n
 C:\Users\mrtag\source\repos\NorthwindBackend\NorthwindBackend\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
 C:\Users\mrtag\source\repos\NorthwindBackend\NorthwindBackend\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
 C:\Users\mrtag\source\repos\NorthwindBackend\NorthwindBackend\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\mrtag\source\repos\NorthwindBackend\NorthwindBackend\WebAPI\bin\Debug\netcoreapp3.1\Castle.Core.dll
+C:\Users\mrtag\source\repos\NorthwindBackend\NorthwindBackend\WebAPI\bin\Debug\netcoreapp3.1\FluentValidation.dll
+C:\Users\mrtag\source\repos\NorthwindBackend\NorthwindBackend\WebAPI\bin\Debug\netcoreapp3.1\Autofac.Extras.DynamicProxy.dll
