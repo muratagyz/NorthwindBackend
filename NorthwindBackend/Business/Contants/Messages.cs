@@ -10,6 +10,7 @@ namespace Business.Contants
         public static string ProductAdded = "Ürün başarıyla eklendi.";
         public static string ProductDeleted = "Ürün başarıyla silindi.";
         public static string ProductUpdated = "Ürün başarıyla güncellendi.";
+        public static string ProductNameAlreadyExists = "Ürün ismi zaten mevcut";
 
         public static string UserNotFound = "Kullanıcı Bulunamadı";
         public static string PasswordError = "Şifre Hatalı.";
@@ -19,5 +20,7 @@ namespace Business.Contants
         public static string AccessTokenCreated = "Access Token Başarıyla Oluşturuldu";
 
         public static string AuthorizationDenied = "Yetkiniz Yok.";
+
+       
     }
 }
